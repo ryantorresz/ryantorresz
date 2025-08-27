@@ -16,7 +16,7 @@
 
 <!-- Skills -->
 <p align="center">
-  <img align="center" alt="C" height="60" width="60" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg"></img>
+  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg"></img>
   <img align="center" alt="C" height="60" width="60" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
   <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
