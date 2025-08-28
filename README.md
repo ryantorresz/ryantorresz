@@ -10,8 +10,6 @@
 <!-- About Me -->
 <p align="center">
   <b>🎓Cursando Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi e Estudo pela Alura</b><br>
-  <b>📚 Atualmente estudando C e Java</b><br>
-  <b>📘Lendo atualmente Algoritmos: Teoria e Prática</b><br>
 </p>
 
 <!-- Skills -->
