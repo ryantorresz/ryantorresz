@@ -20,12 +20,92 @@
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </p>
 
-
 <div align="center">
 <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ryantorresz&show_icons=true&theme=slateorange&hide_border=true" width="46%" alt="GitHub Stats"/>
 <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantorresz&layout=compact&theme=slateorange&hide_border=true" width="50%" alt="Most Used Languages"/>
+</div>
+
+## 📊 Controle de Horas de Estudo Setembro
+<div align="center">
+
+<table>
+<tr>
+<td valign="top">
+
+#### 📋 Semana 1
+| Data | Hrs |
+|------|-----|
+| 01/09 | |
+| 02/09 | |
+| 03/09 | |
+| 04/09 | |
+| 05/09 | |
+| 06/09 | |
+| 07/09 | |
+| **Total** | **0h** |
+
+</td>
+<td valign="top">
+
+#### 📋 Semana 2
+| Data | Hrs |
+|------|-----|
+| 08/09 | |
+| 09/09 | |
+| 10/09 | |
+| 11/09 | |
+| 12/09 | |
+| 13/09 | |
+| 14/09 | |
+| **Total** | **0h** |
+
+</td>
+<td valign="top">
+
+#### 📋 Semana 3
+| Data | Hrs |
+|------|-----|
+| 15/09 | |
+| 16/09 | |
+| 17/09 | |
+| 18/09 | |
+| 19/09 | |
+| 20/09 | |
+| 21/09 | |
+| **Total** | **0h** |
+
+</td>
+<td valign="top">
+
+#### 📋 Semana 4
+| Data | Hrs |
+|------|-----|
+| 22/09 | |
+| 23/09 | |
+| 24/09 | |
+| 25/09 | |
+| 26/09 | |
+| 27/09 | |
+| 28/09 | |
+| **Total** | **0h** |
+
+</td>
+</tr>
+</table>
+
+#### 📋 Semana 5
+| Data | Hrs | Data | Hrs |
+|------|-----|------|-----|
+| 29/09 | | 30/09 | |
+| **Total** | **0h** | | |
+
+
+
+</div>
+
+---
 
 <!-- Social Links -->
 <p align="center">
