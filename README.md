@@ -20,15 +20,6 @@
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </p>
 
-<div align="center">
-<!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ryantorresz&show_icons=true&theme=slateorange&hide_border=true" width="45.9%" alt="GitHub Stats"/>
-<!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantorresz&layout=compact&theme=slateorange&hide_border=true" width="50.3%" alt="Most Used Languages"/>
-</div>
-
----
-
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-torres-53047a287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
