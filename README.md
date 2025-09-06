@@ -11,8 +11,7 @@
 <p align="center">
   📚 Cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi<br>
   🛠️ Aprendendo constantemente na Alura: "Construindo o amanhã, byte a byte"<br>
-  💡 Interessado em desenvolvimento back-end e banco de dados<br>
-  🎯 Foco em: PostgreSQL, C, SQL e Java
+  🎯 Foco em Java
 </p>
 
 ## <div align="center">🛠️ Tecnologias e Ferramentas</div>
