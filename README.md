@@ -25,9 +25,11 @@
 
 ## <div align="center">📈 Estatísticas do GitHub</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryantorresz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FFFF&bg_color=0D1117&title_color=9A6AF3&text_color=FFFFFF&icon_color=6D28D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantorresz&layout=compact&langs_count=7&theme=radical&border_color=00FFFF&bg_color=0D1117&title_color=9A6AF3&text_color=FFFFFF"/>
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px; margin: 20px 0;">
+<!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ryantorresz&show_icons=true&title_color=89CFF0&text_color=89CFF0&icon_color=89CFF0&bg_color=000000&hide_border=true" width="50%" alt="GitHub Stats"/>
+<!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantorresz&layout=compact&title_color=89CFF0&text_color=89CFF0&bg_color=000000&hide_border=true" width="38%" alt="Most Used Languages"/>
 </div>
 
 ## <div align="center">🌐 Conecte-se comigo</div>
