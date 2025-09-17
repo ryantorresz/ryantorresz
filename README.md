@@ -9,7 +9,7 @@
 ## <div align="center">🎓 Sobre mim</div>
 
 <p align="center">
-  📚 Cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi<br>
+  📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi<br>
   🛠️ Aprendendo constantemente na Alura: "Construindo o amanhã, byte a byte"<br>
   🎯 Foco em Java
 </p>
