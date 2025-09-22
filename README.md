@@ -16,12 +16,11 @@
 
 ## <div align="center">🛠️ Tecnologias e Ferramentas</div>
 
-<p align="center">
-  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="filter: drop-shadow(0 0 5px #00FFFF);"/>
-  <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="filter: drop-shadow(0 0 5px #00FFFF);"/>
-  <img align="center" alt="SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="filter: drop-shadow(0 0 5px #00FFFF);"/>
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="filter: drop_shadow(0 0 5px #00FFFF);"/>
-</p>
+<div align="center" >
+  <a href="https://skillicons.dev" >
+  <img src="https://skillicons.dev/icons?i=git,github,windows,c,cs,cpp,css,dotnet,html,java,mysql,sqlite,postgres,py,visualstudio&perline=20" />
+  </a>
+</div>
 
 ## <div align="center">📈 Estatísticas do GitHub</div>
 
