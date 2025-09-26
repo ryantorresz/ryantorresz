@@ -45,4 +45,14 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="filter: drop-shadow(0 0 8px #9A6AF3);"/>
 </p>
 
+<div align="center" style="margin-top: 40px; padding: 20px;">
+  <blockquote>
+    <p style="font-size: 20px; font-style: italic; color: #00FFFF; max-width: 700px; margin: auto;">
+      "You’re not just writing code — you’re building discipline. Every bug you face is a test. Stay in the fight."
+    </p>
+  </blockquote>
+</div>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007cff&height=120&section=footer"/>
