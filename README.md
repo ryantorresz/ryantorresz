@@ -45,8 +45,4 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" style="filter: drop-shadow(0 0 8px #9A6AF3);"/>
 </p>
 
-<div align="center" style="margin: 50px 0; padding: 25px; background: #0d1117; border-radius: 12px; box-shadow: 0 0 12px #007cffcc;"> <p style="font-size: 20px; font-style: italic; color: #a0d8ef; max-width: 700px; margin: auto;"> "Code every day, improve every day. Progress is made one line at a time." </p> </div>
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007cff&height=120&section=footer"/>
