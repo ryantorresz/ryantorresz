@@ -9,7 +9,7 @@
 ## <div align="center">🎓 Sobre mim</div>
 
 <p align="center">
-  📚 Desenvolvedor Backend Java | Formado em ADS <br>
+  📚 Desenvolvedor Back-end Java | Formado em ADS <br>
 </p>
 
 ## <div align="center">🛠️ Tecnologias e Ferramentas</div>
