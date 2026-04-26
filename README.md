@@ -10,6 +10,7 @@
 
 <p align="center">
   📚 Desenvolvedor Back-end Java | Formado em ADS <br>
+  📚 Pós-graduando em Java pela Universidade Federal do Paraná (UTFPR) <br>
 </p>
 
 ## <div align="center">🛠️ Tecnologias e Ferramentas</div>
